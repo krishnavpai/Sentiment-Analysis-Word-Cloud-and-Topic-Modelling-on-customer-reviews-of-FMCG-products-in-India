@@ -1,0 +1,10 @@
+gensim
+matplotlib
+nltk
+numpy
+pandas
+Pillow
+plotly
+seaborn
+wordcloud
+
