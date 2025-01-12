@@ -22,13 +22,13 @@
 
 
 # Advantages
-* __Better Understanding of Customer Sentiment:__ Sentiment analysis allows businesses to get a better understanding of their customers' sentiment towards their product or service. By analyzing the language used in customer reviews, sentiment analysis can provide insight into the positive or negative sentiments expressed by customers. 
-<br>
-* __Improved Customer Service:__ Sentiment analysis can help businesses identify customer issues or complaints in real-time, allowing them to address concerns quickly and effectively. This can lead to improved customer  atisfaction and loyalty.
-<br>
-* __Competitive Analysis:__ By analyzing the sentiment of customer reviews, businesses can gain insights into how their products or services compare to those of their competitors. This can help businesses make informed decisions about product development, marketing strategies, and pricing.
-<br>
-* __Marketing Insights:__ By analyzing customer sentiment, businesses can gain insights into what their customers like and dislike about their products or services. This information can be used to create more targeted marketing campaigns that resonate with their target audience.
+- __Better Understanding of Customer Sentiment:__ Sentiment analysis allows businesses to get a better understanding of their customers' sentiment towards their product or service. By analyzing the language used in customer reviews, sentiment analysis can provide insight into the positive or negative sentiments expressed by customers.
+  
+- __Improved Customer Service:__ Sentiment analysis can help businesses identify customer issues or complaints in real-time, allowing them to address concerns quickly and effectively. This can lead to improved customer  atisfaction and loyalty.
+
+- __Competitive Analysis:__ By analyzing the sentiment of customer reviews, businesses can gain insights into how their products or services compare to those of their competitors. This can help businesses make informed decisions about product development, marketing strategies, and pricing.
+
+- __Marketing Insights:__ By analyzing customer sentiment, businesses can gain insights into what their customers like and dislike about their products or services. This information can be used to create more targeted marketing campaigns that resonate with their target audience.
 
 # Installation and Setup
 Open the terminal and navigate to the desired directory where you want to clone the repository:
